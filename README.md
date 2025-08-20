@@ -28,7 +28,7 @@ The figure shows the comparison of mainstream unsupervised deepfake detection me
 <div align="center">
 Illustration of the overall architecture.
 </div>
-## 📆 TODO LIST
+## 🖥️ How to Use
 
 - [x] Project page released
 - [x] Dataset preparation instructions released
